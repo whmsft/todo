@@ -7,7 +7,7 @@ Nothin' here. Just for me to remember stuffs (as a to-do)
 Now, without any further ado, here's my todo.
 
 ### This Week.
-- [ ] Try our Github Workflows
+- [ ] Try out Github Workflows
   - [ ] Get a cordova app into android
 - [ ] Restart the dead (but new) code editor, [Thee](https://github.com/whmsft/thee) as "Oranje"
 - [ ] If GH-workflows work, Start a new game in JS
