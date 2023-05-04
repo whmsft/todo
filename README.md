@@ -7,11 +7,11 @@ Nothin' here. Just for me to remember stuffs (as a to-do)
 Now, without any further ado, here's my todo.
 
 ### This Week.
-- [ ] Improve Oranje Editor
-- [ ] Publish release for oranje
+- [ ] Think of working with Acteur and ActeurScript.
 
 ### Near Future.
-- [ ] If GH-workflows work, Start a new game
+- [ ] Work with Oranje Editor
+- [ ] Make a lengthy android game utilizing cordova etc.
 - [ ] Complete the story for my game [The Refuge](https://github.com/whmsft/refuge)
   - [ ] Start off the lengthy game development
 - [ ] start a new "sample" game with [this unofficial NCS mix](https://www.youtube.com/watch?v=_lSZbkzINGc)
