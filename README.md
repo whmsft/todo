@@ -7,7 +7,7 @@ Nothin' here. Just for me to remember stuffs (as a to-do)
 Now, without any further ado, here's my todo.
 
 ### This Week.
-- [ ] Think of working with Acteur and ActeurScript.
+- [ ] Kick start high-end work with Acteur and its Script
 
 ### Near Future.
 - [ ] Work with Oranje Editor
