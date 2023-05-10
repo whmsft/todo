@@ -4,10 +4,12 @@ Nothin' here. Just for me to remember stuffs (as a to-do)
   <br>A. me.
  
 <hr>
-Now, without any further ado, here's my todo.
+Now, without any further ado, here's my todo. (which i might not follow...)
 
 ### This Week.
 - [ ] Kick start high-end work with Acteur and its Script
+- [ ] Try working on Oranje
+
 
 ### Near Future.
 - [ ] Work with Oranje Editor
